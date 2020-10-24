@@ -44,6 +44,9 @@ p {
 }
 
 /* Header */
+.header {
+  border-bottom: 1px solid #ececec;
+}
 
 .flex-container {
   display: flex;
